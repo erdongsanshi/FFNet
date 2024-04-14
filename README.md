@@ -48,8 +48,6 @@ If you find this project is useful for your research, please cite:
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
-
-
 ```
 
 ## Acknowledgement
