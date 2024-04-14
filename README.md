@@ -2,7 +2,7 @@
 
 This repository includes the official implementation of the paper:
 
-Original paper [Link]（[http://arxiv.org/abs/2404.07847](https://arxiv.org/abs/2404.07847)）
+Original paper [Link]（https://arxiv.org/abs/2404.07847）
 
 ## Installation
 
