@@ -36,6 +36,20 @@ python test_image_patch.py
 | ShanghaiTech PartB       |  [SHB_model.pth](https://drive.google.com/file/d/1LhRde7Ztpg1pn3C7DIfZj9tkP5FrHh1P/view?usp=drive_link)   |  6.1  |
 | NWPU(Val)                |  [NWPU_model.pth](https://drive.google.com/file/d/1zCkfSvTV2Cx5boEZ3a6lgyQMCPeeNGmi/view?usp=drive_link)  | 41.26 |
 
+# Citation
+If you find this project is useful for your research, please cite:
+
+```
+@misc{chen2024fussfree,
+      title={Fuss-Free Network: A Simplified and Efficient Neural Network for Crowd Counting}, 
+      author={Lei Chen and Xingen Gao},
+      year={2024},
+      eprint={2404.07847},
+      archivePrefix={arXiv}
+}
+
+```
+
 ## Acknowledgement
 
 We thank the authors of [DM-Count](https://github.com/cvlab-stonybrook/DM-Count) and [CCtrans](https://github.com/wfs123456/CCTrans) for open-sourcing their work.
