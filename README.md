@@ -1,8 +1,6 @@
 # Fuss-Free Network: A Simplified and Efficient Neural Network for Crowd Counting
 
-This repository includes the official implementation of the paper:
-
-Original paper [Link](https://arxiv.org/abs/2404.07847)
+This repository includes the official implementation of the paper:[Fuss-Free Network: A Simplified and Efficient Neural Network for Crowd Counting](https://arxiv.org/abs/2404.07847)
 
 ## Installation
 
