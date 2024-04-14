@@ -45,8 +45,10 @@ If you find this project is useful for your research, please cite:
       author={Lei Chen and Xingen Gao},
       year={2024},
       eprint={2404.07847},
-      archivePrefix={arXiv}
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
+
 
 ```
 
